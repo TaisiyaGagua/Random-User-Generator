@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(205, 175, 191);
+}
+.card-footer, .card-header {
+    background-color: rgba(200, 79, 180, 0.854);
+}
+.card-body {
+    background-color: rgb(240, 177, 240);
+}
+
+#generation{
+    color: rgb(253, 193, 249);
+    background-color: rgb(126, 25, 220);
+    margin-right: 25px;
+}
+
+#clear{
+    color: rgb(253, 193, 249);
+    background-color: rgb(51, 18, 150);
+    margin-left: 25px;
+}
+.container{
+    margin-top: 150px;
+}
