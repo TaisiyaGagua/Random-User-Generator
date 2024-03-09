@@ -1,22 +1,20 @@
-# генератор случайных пользовательских данных
-
-
+# Random User Data Generator
 
 ___
-Рабзработан в качестве практического задания
 
-Содержит в себе генератор случайных пользовательских данных: ФИО, пола, даты рождения и профессии. 
+Includes a random user data generator: full name, gender, date of birth, and profession.
 
-С возможностью сбрасывать информацию. 
+Provides the option to reset the information.
 
  
 
 ___
-## Исользуемые технологии:
+## Used Technologies:
+
 1. HTML
 2. CSS
 3. JavaScript
 ---
-## Как открыть/запустить
-Зайти в папку сайта в файловом менеджере, кликнуть 2 раза по файлу index.html.
+## How to Open/Run
 
+Navigate to the website folder in the file manager, double-click on the file "index.html."
